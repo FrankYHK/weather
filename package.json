@@ -1,5 +1,5 @@
 {
-  "name": "weather",
+  "name": "f-weather",
   "version": "0.1.0",
   "description": "The command line inquires the weather",
   "bin": {
