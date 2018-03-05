@@ -1,0 +1,27 @@
+{
+  "name": "weather",
+  "version": "0.1.0",
+  "description": "The command line inquires the weather",
+  "bin": {
+    "f-weather": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankYHK/weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankYHK/weather/issues"
+  },
+  "homepage": "https://github.com/FrankYHK/weather#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chalk": "^2.3.1",
+    "commander": "^2.14.1"
+  }
+}
